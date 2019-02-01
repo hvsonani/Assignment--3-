@@ -1,6 +1,6 @@
 # Assignment-3
 
-SSIS Package for Splitting Gender and login ID
+SSIS Packages for Splitting Gender and login ID and Validtaing Gender using a reference table
 
 The zip folder contains the following files
 
